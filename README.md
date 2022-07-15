@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rakeshozon/Rakeshozon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Rakeshozon/Rakeshozon** is a ✨ _special_ ✨ repository because i could connect with you (yes you , who are reading this now..) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ELectronics /robotics, IOT ,web developemnt and app developmet
+- 🌱 I’m currently learning  Machine learning , cloud computing,kotlin development and kubernates
+- 👯 I’m looking to collaborate on robotics and iot
+
+- 💬 Ask me about :- when to collabarate😂
+- 📫 How to reach me:  rakeshozon@gmail.com / technically u can find me with rakeshozon name or id in any social media
+
+
